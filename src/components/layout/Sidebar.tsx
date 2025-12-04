@@ -47,7 +47,7 @@ export function Sidebar() {
           <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-sidebar-primary">
             <GraduationCap className="h-5 w-5 text-sidebar-primary-foreground" />
           </div>
-          <span className="text-lg font-bold">KMP UMB</span>
+          <span className="text-lg font-bold">KSPM UMB</span>
         </div>
 
         {/* Role Selector */}
@@ -90,7 +90,7 @@ export function Sidebar() {
         {/* Footer */}
         <div className="border-t border-sidebar-border p-4">
           <p className="text-xs text-sidebar-muted">
-            © 2025 KMP UMB
+            © 2025 KSPM UMB
           </p>
         </div>
       </div>
